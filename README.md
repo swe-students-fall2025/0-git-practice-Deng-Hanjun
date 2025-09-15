@@ -10,7 +10,8 @@ I found this interesting because it reinforces the idea that good communication,
 clear specs, and adaptability are just as important as coding skills.  
 It also made me think about how agile practices and continuous clarification
 can help prevent wasted effort and late-discovered “bugs” that are 
-really requirement gaps.
+really requirement gaps. 
+- I agree with this paragraph and I think you make some great points about how it reinforces the idea that good communication is just as important as coding skills
 
 The blog also points out that while AI tools (like GitHub Copilot or ChatGPT) can already
 help with **coding**, they still cannot handle **requirements**, since those are often
